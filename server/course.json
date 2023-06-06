@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "The Legend of Calback",
+        "imgUrl": "https://static.wixstatic.com/media/1cd646_b30f0844aa7e4265ad6895a4b39cede7~mv2.png/v1/fill/w_699,h_355,al_c,q_85,enc_auto/1cd646_b30f0844aa7e4265ad6895a4b39cede7~mv2.png",
+        "price": 49000,
+        "description": "In the land of Callback, a timeless tale unfolds as a young hero embarks on a perilous journey to unlock the secrets of an ancient artifact, rumored to possess the power to rewrite destiny itself."
+    },
+    {
+        "id": 2,
+        "title": "Mystery of The Great Pinia",
+        "imgUrl": "https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/27735/pinia-2.jpg",
+        "price": 39000,
+        "description": "Deep within the lush forest of Pinia, a mysterious aura lingers, beckoning intrepid explorers to unveil the enigma of the Great Pinia and its profound connection to the fabric of the universe."
+    },
+    {
+        "id": 3,
+        "title": "A Ray of Jack",
+        "imgUrl": "https://joshcollinsworth.com/images/post_images/EQ0-F2nXUAEpgCx.jpeg",
+        "price": 29000,
+        "description": "In the small coastal town of Serenity Bay, a ray of Jack, a charismatic and enigmatic musician, illuminates the hearts of the locals, inspiring them to rediscover the magic of music and embrace their true passions."
+    },
+    {
+        "id": 4,
+        "title": "As Above Sequelize",
+        "imgUrl": "https://camo.githubusercontent.com/58e35d08b53ec029f0e3e587a28a6f65777d352f797add843d153a0db60b9d7d/68747470733a2f2f692e696d6775722e636f6d2f79764559686e5a2e706e67",
+        "price": 19000,
+        "description": "As the stars aligned once more, the unfolding sequel of 'As Above' plunged its characters into a breathtaking cosmic odyssey, where ancient prophecies and celestial forces clashed in a battle for the fate of worlds."
+    },
+    {
+      "id": 5,
+      "title": "Adventure of AJAX",
+      "imgUrl": "https://www.petanikode.com/img/js/ajax/ajax.png",
+      "price": 59000,
+      "description": "In the thrilling Adventure of Ajax, the fearless protagonist delves into uncharted territories, braving treacherous obstacles and cunning adversaries, all in pursuit of an elusive treasure said to bestow unimaginable riches and eternal glory."
+    }
+  ]
+  
